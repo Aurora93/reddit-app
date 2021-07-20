@@ -13,7 +13,7 @@
     "moment": "^2.24.0",
     "node-fetch": "^2.6.0",
     "react": "16.11.0",
-    "react-native": "0.62.0",
+    "react-native": "0.62.3",
     "react-native-elements": "^1.2.7",
     "react-native-vector-icons": "^6.6.0",
     "react-native-webview": "^9.0.2"
